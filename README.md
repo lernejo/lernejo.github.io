@@ -1,2 +1,3 @@
-# site2
-Lernejo website
+# Lernejo website
+
+Npm needed.
