@@ -38,6 +38,26 @@
                     <a href="https://lernejo.github.io/course-java-201-fr/">HTML</a>
                 </div>
             </div>
+
+            <div class="TimelineItem">
+                <div class="TimelineItem-badge">
+                    <i class="fas fa-graduation-cap color-fg-attention"></i>
+                </div>
+                <div class="TimelineItem-body">
+                    Java Project: Build a Travel agency site - <a
+                    href="https://github.com/lernejo/exercises/blob/master/projects/spring_http_api_fr/PROJECT_TRAVEL_AGENCY.adoc">Subject</a>
+                    <div>Due date: 14 January 2022 20:00</div>
+                    <div>
+                        <span class="Label">Git</span>
+                        <span class="Label">Maven</span>
+                        <span class="Label">HTTP</span>
+                        <span class="Label">Spring</span>
+                        <span class="Label">Retrofit</span>
+                        <span class="Label">JUnit</span>
+                    </div>
+                </div>
+            </div>
+
             <div class="TimelineItem">
                 <div class="TimelineItem-badge">
                     <fa icon="pencil-alt" class="color-fg-attention" />
@@ -91,7 +111,7 @@
                     <fa icon="pencil-alt" class="color-fg-attention" />
                 </div>
                 <div class="TimelineItem-body">
-                    <b>3 - HTTP API, JDBC & Scaling with Docker Compose</b><br/> TODO list -
+                    <b>4 - HTTP API, JDBC & Scaling with Docker Compose</b><br/> TODO list -
                     <a href="https://github.com/lernejo/exercises/blob/master/simple_web_app_spring_fr/EXERCISE.adoc">Subject</a>
                     <div>
                         <span class="Label">Spring</span>
