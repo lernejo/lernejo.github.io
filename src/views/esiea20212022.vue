@@ -113,9 +113,28 @@
                 <div class="TimelineItem-body">
                     <b>4 - HTTP API, JDBC & Scaling with Docker Compose</b><br/> TODO list -
                     <a href="https://github.com/lernejo/exercises/blob/master/simple_web_app_spring_fr/EXERCISE.adoc">Subject</a>
+                    - &nbsp; <fa icon="cogs" class="color-fg-success mr-1" />
+                    <a href="https://github.com/lernejo/korekto-simple-web-app-grader">Grading routine</a>
+                    <div>Due date: 8 December 2022 20:00</div>
                     <div>
                         <span class="Label">Spring</span>
                         <span class="Label">JDBC</span>
+                        <span class="Label">Docker</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="TimelineItem">
+                <div class="TimelineItem-badge">
+                    <fa icon="pencil-alt" class="color-fg-attention" />
+                </div>
+                <div class="TimelineItem-body">
+                    <b>5 - Communication asynchrone avec RabbitMQ</b><br/> client / server de Chat -
+                    <a href="https://github.com/lernejo/exercises/blob/master/amqp_fr/EXERCISE.adoc">Subject</a>
+                    <div>Due date: 9 December 2022 20:00</div>
+                    <div>
+                        <span class="Label">Spring</span>
+                        <span class="Label">RabbitMQ</span>
                         <span class="Label">Docker</span>
                     </div>
                 </div>
