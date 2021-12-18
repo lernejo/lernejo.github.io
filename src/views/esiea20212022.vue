@@ -46,6 +46,8 @@
                 <div class="TimelineItem-body">
                     Java Project: Build a Travel agency site - <a
                     href="https://github.com/lernejo/exercises/blob/master/projects/spring_http_api_fr/PROJECT_TRAVEL_AGENCY.adoc">Subject</a>
+                    - &nbsp; <fa icon="cogs" class="color-fg-success mr-1" />
+                    <a href="https://github.com/lernejo/korekto-travel-agency-grader">Grading routine</a>
                     <div>Due date: 14 January 2022 20:00</div>
                     <div>
                         <span class="Label">Git</span>
