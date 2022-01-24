@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? '/site/' : '/',
+    publicPath: '/',
     pages: {
         index: {
           entry: 'src/main.ts',

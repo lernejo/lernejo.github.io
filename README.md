@@ -4,4 +4,7 @@ Npm needed, [Volta](https://volta.sh/) is preferred.
 
 ## Testing locally
 
-`npm run serve`
+```bash
+npm install
+npm run serve
+```
