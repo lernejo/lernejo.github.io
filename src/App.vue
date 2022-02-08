@@ -17,7 +17,10 @@
       <div class="col-2 float-left p-4">
           <nav class="menu" aria-label="content by year">
               <router-link to="/" class="menu-item">
-                2021 - EPITA 4A
+                2021-2022 - EPITA 3A
+              </router-link>
+              <router-link to="/2021/epita/4A" class="menu-item">
+                2021-2022 - EPITA 4A
               </router-link>
               <router-link to="/2021/esiea" class="menu-item">
                 2021 - ESIEA
@@ -25,7 +28,6 @@
               <router-link to="/2020/epita" class="menu-item">
                 2020 - EPITA
               </router-link>
-
           </nav>
       </div>
       <div class="col-10 float-right border-left p-4">
