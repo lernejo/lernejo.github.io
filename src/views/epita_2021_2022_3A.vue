@@ -34,8 +34,7 @@
                     <fa icon="book" class="color-fg-done" />
                 </div>
                 <div class="TimelineItem-body">
-                    Libraries & Frameworks in the Java Ecosystem -
-                    <a href="https://raw.githubusercontent.com/lernejo/course-java-101-fr/rendered/main/pdf/index.pdf">PDF</a> -
+                    Java beginner course -
                     <a href="https://lernejo.github.io/course-java-101-fr/">HTML</a>
                 </div>
             </div>
@@ -49,7 +48,7 @@
                     href="https://github.com/lernejo/exercises/blob/master/projects/http_api_fr/EXERCISE.adoc">Subject</a>
                     - &nbsp; <fa icon="cogs" class="color-fg-success mr-1" />
                     <a href="https://github.com/lernejo/korekto-java-api-grader">Grading routine</a>
-                    <div>Due date: 23 March 2022 20:00 CET</div>
+                    <div>Due date: 31 March 2022 20:00 CET</div>
                     <div>
                         <span class="Label">Java</span>
                         <span class="Label">Maven</span>
