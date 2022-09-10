@@ -16,3 +16,6 @@ pnpm-debug.log*
 # Editor directories and files
 .idea
 *.iml
+
+# Zola output dir
+public/
