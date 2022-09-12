@@ -1,4 +1,5 @@
 base_url = "https://lernejo.github.io"
+title = "Lernejo"
 compile_sass = true
 build_search_index = true
 theme = "adidoks"
@@ -6,8 +7,12 @@ theme = "adidoks"
 [markdown]
 highlight_code = true
 
-[extra]
+[search]
+include_title = true
+include_description = true
+include_content = true
 
+[extra]
 # Edit page on reposity
 edit_page = true
 docs_repo = "https://github.com/lernejo/lernejo.github.io"
@@ -24,3 +29,11 @@ pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0
 url = "https://github.com/lernejo"
 post = "v0.1.0"
 weight = 20
+
+[extra.footer]
+info = 'Made by <a href="https://github.com/ledoyen">ledoyen</a>'
+
+[[extra.footer.nav]]
+name = "Privacy"
+url = "/privacy-policy/"
+weight = 10
