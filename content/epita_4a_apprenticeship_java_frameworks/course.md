@@ -30,6 +30,7 @@ HTML version: [/course-java-202-fr](https://lernejo.github.io/course-java-202-fr
     * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/multimodule_reflect_fr/EXERCISE.adoc)
 
 ## Project
+Due date: **13 Jan 2023 20h00**
 Build a Video Game Search Engine
 * {{ icon(icon="pen") }} [Subject](https://github.com/lernejo/exercises/blob/master/projects/spring_rabbitmq_es_fr/VIDEO_GAME_SEARCH_ENGINE.adoc)
 * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-video-game-search-engine-grader)

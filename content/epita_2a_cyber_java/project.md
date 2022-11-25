@@ -13,7 +13,7 @@ toc = true
 top = false
 +++
 
-Due date: **13 Fev 2023 20h00**
+Due date: **13 Jan 2023 20h00**
 
 * {{ icon(icon="pen") }} [Subject](https://github.com/lernejo/exercises/blob/master/projects/http_api_fr/EXERCISE.adoc)
 * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-java-api-grader)
