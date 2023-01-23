@@ -19,7 +19,7 @@ HTML version: [/course-java-202-fr](https://lernejo.github.io/course-java-202-fr
 ## Exercises
 
 * 1 - HTTP API, JDBC & Scaling with Docker Compose
-    * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/simple_web_app_spring_fr/EXERCISE.adoc)
+    * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/simple_web_app_spring/EXERCISE_fr.adoc)
     * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-simple-web-app-grader)
 ---
 * 2 - Asynchronous communication using RabbitMQ
