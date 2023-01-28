@@ -25,7 +25,7 @@ top = false
     * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-simple-web-app-grader)
 ---
 * 2 - Asynchronous communication using RabbitMQ
-    * {{ icon(icon="pen") }}  Subject [FR](https://github.com/lernejo/exercises/blob/master/amqp_fr/EXERCISE.adoc)
+    * {{ icon(icon="pen") }}  Subject [EN](https://github.com/lernejo/exercises/blob/master/amqp/EXERCISE_en.adoc) [FR](https://github.com/lernejo/exercises/blob/master/amqp/EXERCISE_fr.adoc)
     * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-amqp-grader)
 ---
 
@@ -36,9 +36,9 @@ Due dates:
 * EN group: **24 Feb 2023 20h00**
 * FR group: **03 Mar 2023 20h00**
 
-Build a Video Game Search Engine
-* {{ icon(icon="pen") }} Subject [FR](https://github.com/lernejo/exercises/blob/master/projects/spring_rabbitmq_es_fr/VIDEO_GAME_SEARCH_ENGINE.adoc)
-* {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-video-game-search-engine-grader)
+Build a Travel Agency website
+* {{ icon(icon="pen") }} Subject [EN](https://github.com/lernejo/exercises/blob/master/projects/spring_http_api/PROJECT_TRAVEL_AGENCY_en.adoc) [FR](https://github.com/lernejo/exercises/blob/master/projects/spring_http_api/PROJECT_TRAVEL_AGENCY_fr.adoc)
+* {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-travel-agency-grader)
 
 
 ## Module 1: Application design (past)

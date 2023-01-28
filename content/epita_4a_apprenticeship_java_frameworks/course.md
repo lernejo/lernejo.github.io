@@ -23,7 +23,7 @@ HTML version: [/course-java-202-fr](https://lernejo.github.io/course-java-202-fr
     * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-simple-web-app-grader)
 ---
 * 2 - Asynchronous communication using RabbitMQ
-    * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/amqp_fr/EXERCISE.adoc)
+    * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/amqp/EXERCISE_fr.adoc)
     * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-amqp-grader)
 ---
 - 3 - Build a test framework
