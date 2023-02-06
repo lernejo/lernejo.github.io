@@ -18,6 +18,11 @@ top = false
 
 ## Module 2: Application architecture
 
+Evaluation form:
+
+* EN [https://forms.gle/Y9J8PoWHQ1jLUvVQ6](https://forms.gle/Y9J8PoWHQ1jLUvVQ6)
+* FR [https://forms.gle/p3qykLsze757R6P39](https://forms.gle/p3qykLsze757R6P39)
+
 ### Exercises
 
 * 1 - HTTP API, JDBC & Scaling with Docker Compose
