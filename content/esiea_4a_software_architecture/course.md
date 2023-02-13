@@ -38,8 +38,8 @@ Evaluation form:
 
 Due dates:
 
-* EN group: **24 Feb 2023 20h00**
-* FR group: **03 Mar 2023 20h00**
+* FR group: **24 Feb 2023 20h00**
+* EN group: **03 Mar 2023 20h00**
 
 Build a Travel Agency website
 * {{ icon(icon="pen") }} Subject [EN](https://github.com/lernejo/exercises/blob/master/projects/spring_http_api/PROJECT_TRAVEL_AGENCY_en.adoc) [FR](https://github.com/lernejo/exercises/blob/master/projects/spring_http_api/PROJECT_TRAVEL_AGENCY_fr.adoc)

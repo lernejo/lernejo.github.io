@@ -31,5 +31,5 @@ top = false
 ---
 
 * Link your GitHub account:
-* EN: [https://forms.gle/UNmvWMs3jaP48xZN9](https://forms.gle/UNmvWMs3jaP48xZN9)
+* EN: [https://forms.gle/Ycw7ywYq9kPGeo3B8](https://forms.gle/Ycw7ywYq9kPGeo3B8)
 * FR: [https://forms.gle/a14Uiu8xtkdug27j6](https://forms.gle/a14Uiu8xtkdug27j6)
