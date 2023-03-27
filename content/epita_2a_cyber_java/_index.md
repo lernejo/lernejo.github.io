@@ -1,5 +1,5 @@
 +++
-title = "EPITA 2A Cyber: Java"
+title = "EPITA 2A Cyber Bachelor: Java"
 description = "Learn the basics of Java."
 date = 2022-09-10T08:00:00+00:00
 updated = 2022-09-10T08:00:00+00:00
