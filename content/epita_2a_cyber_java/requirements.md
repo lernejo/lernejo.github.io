@@ -19,10 +19,10 @@ top = false
   * Mac: native
   * Windows: Git BASH (embedded in [Git for Windows](https://gitforwindows.org/)) is recommended
 * Install a Git client
-* Install a JDK (Java Development Kit) **17**, recommended distribution is [Eclipse Temurin](https://adoptium.net/temurin/releases) from **Adoptium**
-* Install [Maven](https://maven.apache.org/download.cgi) **3.8.6**
+* Install a JDK (Java Development Kit) **21**, recommended distribution is [Eclipse Temurin](https://adoptium.net/temurin/releases) from **Adoptium**
+* Install [Maven](https://maven.apache.org/download.cgi) **3.9.4**
 * Install an IDE supporting Java, [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/) is preferred (recommended distribution is the _Community Edition_)
 
 ---
 
-* Link your GitHub account: [https://forms.gle/NA4NmEGwyuep8mpFA](https://forms.gle/NA4NmEGwyuep8mpFA)
+* Link your GitHub account: [https://forms.gle/zubC5VRPnFbV4wEL7](https://forms.gle/zubC5VRPnFbV4wEL7)

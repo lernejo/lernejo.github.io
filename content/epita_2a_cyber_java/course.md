@@ -34,7 +34,7 @@ HTML version: [/course-java-101-fr](https://lernejo.github.io/course-java-101-fr
     * {{ icon(icon="pen") }}  [Subject](https://github.com/lernejo/exercises/blob/master/multimodule_reflect_fr/EXERCISE.adoc)
 
 ## Project
-Due date: **13 Jan 2023 20h00**
+Due date: **22 Dec 2023 20h00**
 Build a program playing the Navy battle game over an HTTP/JSON API.
 * {{ icon(icon="pen") }} [Subject](https://github.com/lernejo/exercises/blob/master/projects/http_api_fr/EXERCISE.adoc)
 * {{ icon(icon="gear") }} [Grader](https://github.com/lernejo/korekto-java-api-grader)

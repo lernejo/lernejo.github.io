@@ -20,21 +20,9 @@ url = "/epita_2a_cyber_java/requirements/"
 url_button = "Go to course"
 
 [[extra.list]]
-title = "Epita APPING-1 3A: Java"
-content = 'Java 101.'
-url = "/epita_3a_apprenticeship_java/requirements/"
-url_button = "Go to course"
-
-[[extra.list]]
 title = "Epita APP-EXP2: Professional Java"
 content = 'Libraries & Frameworks usage in the Java Ecosystem.'
 url = "/epita_4a_apprenticeship_java_frameworks/requirements/"
-url_button = "Go to course"
-
-[[extra.list]]
-title = "ESIEA 4A: Software Architecture"
-content = 'Learn means & tools to go beyond hello-world-development.'
-url = "/esiea_4a_software_architecture/requirements/"
 url_button = "Go to course"
 
 +++

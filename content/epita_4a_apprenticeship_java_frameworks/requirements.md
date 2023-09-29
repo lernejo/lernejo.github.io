@@ -21,8 +21,8 @@ top = false
 * Have 4 Gb (6 Gb preferred) of RAM available / free
   * Linux: don't bother, using Docker is almost free
 * Install a Git client
-* Install a JDK (Java Development Kit) **17** or higher, recommended distribution is [Eclipse Temurin](https://adoptium.net/temurin/releases) from **Adoptium**
-* Install [Maven](https://maven.apache.org/download.cgi) **3.8.6** or higher
+* Install a JDK (Java Development Kit) **21**, recommended distribution is [Eclipse Temurin](https://adoptium.net/temurin/releases) from **Adoptium**
+* Install [Maven](https://maven.apache.org/download.cgi) **3.9.4** or higher
 * Install an IDE supporting Java, [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/) is preferred (recommended distribution is the _Community Edition_)
 * Install [Docker](https://docs.docker.com/engine/install/ubuntu/)
   * Windows & Mac: install Docker Desktop 
@@ -30,4 +30,4 @@ top = false
   * Windows & Mac: no installation needed, the tool comes with Docker Desktop  
 ---
 
-* Link your GitHub account: [https://forms.gle/rWpTMvZV8QtVNg616](https://forms.gle/rWpTMvZV8QtVNg616)
+* Link your GitHub account: [https://forms.gle/nfp7mTvJZTsLih2U6](https://forms.gle/nfp7mTvJZTsLih2U6)
