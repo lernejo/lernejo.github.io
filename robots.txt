@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lernejo.github.io/sitemap.xml
